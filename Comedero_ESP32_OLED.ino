@@ -18,7 +18,7 @@
 
 // ===== Pantalla y servo =====
 #define ANCHO_PANTALLA 128
-#define ALTO_PANTALLA  32
+#define ALTO_PANTALLA  64
 Adafruit_SSD1306 oled(ANCHO_PANTALLA, ALTO_PANTALLA, &Wire, -1); // -1: sin pin de reset
 Servo servo;
 
