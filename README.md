@@ -9,7 +9,7 @@ Comedero para mascotas que dispensa alimento con un servomotor. Tiene tres modos
 | Archivo | Placa | Pantalla | Simulación |
 |---|---|---|---|
 | `Comedero_UNO.ino` | Arduino UNO | LCD 16x2 I2C | [Tinkercad](https://www.tinkercad.com/things/bkTBLtPfgUi-spectacular-jaagub/editel?sharecode=qkklTK2UCeEy1hw_tv5r9D9wAsKG68oIUkh7F0Qf6p4) |
-| `Comedero_ESP32_OLED.ino` | ESP32 | OLED 128x32 SSD1306 | [Wokwi](https://wokwi.com/projects/480783610547213313) |
+| `Comedero_ESP32_OLED.ino` | ESP32 | OLED 128x64 SSD1306 | [Wokwi](https://wokwi.com/projects/480783610547213313) |
 
 ## Componentes
 
